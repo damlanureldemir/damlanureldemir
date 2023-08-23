@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=damlanureldemir&color=red&style=for-the-badge )
 
 
-[<img align="left" alt="damlanureldemir | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 <br />
 
